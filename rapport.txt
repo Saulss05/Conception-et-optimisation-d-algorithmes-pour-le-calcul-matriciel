@@ -1,7 +1,5 @@
 DUQUEYROIX
 SAUL
-12313228
-L2-DL
 
 Bonjour, voici le rapport de mon projet de résolution du problème de Parenthésage Optimal d’une Chaîne de Multiplications de Matrices.
 
@@ -62,8 +60,7 @@ Bonjour, voici le rapport de mon projet de résolution du problème de Parenthé
         ./generate_instances.c 1 80 10 50 gen_instances.txt
         ./backtracking_ext.exe gen_instances.txt solve.txt
 
-Merci d'avoir lu le rapport, le reste des fichiers est joint dans la boîte de dépôts.
-
+Merci d'avoir lu le rapport.
         
 
 
